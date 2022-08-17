@@ -1,0 +1,37 @@
+h1{
+    color: rgb(39, 39, 80);
+    font-size: 70px;
+   }
+   h3{
+    color: rgb(84, 60, 128);
+    font-size: 30px;
+   }
+   h4{
+    color: rgb(64, 186, 216);
+    font-size: 20px;
+   }
+   frutas{
+    color: rgb(243, 65, 243);
+   }
+   .img1 {
+    width: 600px;
+    height: 400px;
+   }
+   .img2{
+     width: 300;
+     height: 300;
+   }
+
+   
+   #thirdDiv{
+    height: 366px;
+    width: 588px;
+    background-color:rgb(97, 97, 240);
+    padding: 50px;
+    border: 3px solid rgb(28, 31, 243);
+   }
+   #spamId{
+    font-size: 25px;
+    margin: 50px;
+    border: 2px ;
+   }
